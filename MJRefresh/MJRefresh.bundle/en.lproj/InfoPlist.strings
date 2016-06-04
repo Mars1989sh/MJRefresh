@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  ProjectAsuka
+
+  Created by XiaoHuizhe on 16/4/8.
+  Copyright © 2016年 XiaoHuizhe. All rights reserved.
+*/
+"CFBundleDisplayName" = "Pixy";
+
+"CFBundleName" = "Pixy";
+
+"NSLocationWhenInUseUsageDescription" = "Turn on location to find friends nearby";
